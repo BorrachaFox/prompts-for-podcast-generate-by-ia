@@ -1,3 +1,5 @@
+https://borrachafox.github.io/prompts-for-podcast-generate-by-ia/output/synthesized_audio.mp3
+
 <p align="center">
 <img 
     src="./assets/ep1_cover.png"
